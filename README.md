@@ -32,6 +32,7 @@ root/
 1. Clone the repository:
    ```bash
    https://github.com/Alkush-Pipania/G1.git
+   ```
 
 2. Navigate to the project directory:
    cd backend and cd frontend  -- in different terminal
