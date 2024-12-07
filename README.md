@@ -34,10 +34,10 @@ root/
    https://github.com/Alkush-Pipania/G1.git
    ```
 
-2. Navigate to the project directory:
-   cd backend and cd frontend  -- in different terminal
-3. Install dependency
-   npm install -- in both
-4. ADD API
-   get that from [console.anthropic.com](https://console.anthropic.com/)
-5. npm run dev
+2. Navigate to the project directory:```
+   cd backend and cd frontend  -- in different terminal ```
+3. Install dependency```
+   npm install -- in both```
+4. ADD API ```
+   get that from [console.anthropic.com](https://console.anthropic.com/)```
+5. ```npm run dev```
